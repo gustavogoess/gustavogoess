@@ -2,7 +2,7 @@
 
 - 🔭 Em busca da primeira oportunidade no mercado de trabalho.
 - 📚 Cursando Ciências da Computação na Faculdade Impacta de Tecnologia.
-- 👨‍💻 Meta em ser porgramador back-end e de aplicativos.
+- 👨‍💻 Meta em ser porgramador backend e de aplicativos.
 
 Aprendendo:
 
