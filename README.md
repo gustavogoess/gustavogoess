@@ -1,8 +1,8 @@
 # Olá, meu nome é Gustavo Goes !!
 
-- 🔭 Em busca da primeira oportunidade no mercado de trabalho.
+- 🔭 Atuando em monitoração de redes.
 - 📚 Cursando Ciências da Computação na Faculdade Impacta de Tecnologia.
-- 👨‍💻 Meta em ser porgramador backend e de aplicativos.
+- 👨‍💻 Objetivo em ser data science.
 
 Aprendendo:
 
